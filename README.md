@@ -9,4 +9,4 @@
 * Github : **augusyouthh**
 
 
-![My photo](c:\Users\augus\OneDrive\รูปภาพ\ภาพหน้าจอ\augusyouthh.png)
+![My photo](https://github.com/2138pm/augus/blob/assets/augusyouthh.png)
